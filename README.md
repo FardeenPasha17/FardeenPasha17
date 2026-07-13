@@ -9,7 +9,6 @@
 ---
 
 ## 🚀 Current Learning
-## 🚀 Current Learning
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -42,13 +41,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=FardeenPasha17&theme=tokyonight)
 > *Learning every day. Building projects that solve real-world problems.*
 
-## 📫 Connect with Me
 
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/fardeen-pasha-1540603a7
 - 📧 Email: fardeen9557@gmail.com
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: Under development
 - 🏆 Kaggle: Coming Soon
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.*
