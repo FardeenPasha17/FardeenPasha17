@@ -1,22 +1,13 @@
-# Hi there, I'm Fardeen Pasha 👋
+<h1 align="center">Hi 👋 I'm Fardeen Pasha</h1>
 
-### Aspiring Data Scientist & AI Engineer
-
-I'm a Computer Science student passionate about Data Science, Machine Learning, Artificial Intelligence, and solving real-world problems through code.
-
----
+<h3 align="center">Aspiring Data Scientist & AI Engineer</h3>
 
 ## 🚀 Current Learning
-
-- 🐍 Python
-- 🗄️ SQL
-- 🔢 NumPy
-- 📊 Pandas (Next)
-- 🤖 Machine Learning (Upcoming)
-
----
-
 ## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+</p>
 
 - Python
 - SQL
@@ -28,28 +19,21 @@ I'm a Computer Science student passionate about Data Science, Machine Learning, 
 
 ## 📂 Featured Repositories
 
-- 📘 python-mastery
-- 🗄️ sql-mastery
-- 🔢 numpy-mastery
-- 🛣️ data-science-journey-2026
-
+- 📘 [python-mastery](https://github.com/FardeenPasha17/python-mastery)
+- 🗄️ [sql-mastery](https://github.com/FardeenPasha17/sql-mastery)
+- 🔢 [numpy-mastery](https://github.com/FardeenPasha17/numpy-mastery)
+- 🛣️ [data-science-journey-2026](https://github.com/FardeenPasha17/data-science-journey-2026)
 ---
 
 ## 🎯 2026 Goals
 
-- Master Python, SQL, NumPy, and Pandas
-- Build real-world Data Science projects
-- Learn Machine Learning & Deep Learning
-- Contribute consistently on GitHub
-- Become job-ready as a Data Scientist
-
+- <img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,sklearn,tensorflow,pytorch,docker,fastapi,git,vscode" />
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/FardeenPasha17
-- LinkedIn: https://www.linkedin.com/in/fardeen-pasha-1540603a7
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/fardeen-pasha-1540603a7)
+- 💻 [GitHub](https://github.com/FardeenPasha17)
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.*
