@@ -44,8 +44,11 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fardeen-pasha-1540603a7)
-- 💻 [GitHub](https://github.com/FardeenPasha17)
----
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/fardeen-pasha-1540603a7
+- 📧 Email: fardeen9557@gmail.com
+- 🌐 Portfolio: Coming Soon
+- 🏆 Kaggle: Coming Soon
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.*
